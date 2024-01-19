@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | 
 | [Симулятор автопилота 2D](https://github.com/fluke8/neuro-race-python) | Reinforcement Learning | Создание модели автономной системы управления машиной, оснащенной датчиками приближения к препятствиям. Цель — обучить машину двигаться по трассе, избегая столкновений с преградами, с использованием методов машинного обучения. | numpy, sklearn, PyTorch, pygame |  
 | [Классификация жеста](https://github.com/fluke8/gestureclassification) | Computer Vision | Разработка простой системы распознавания жестов.  Цель - обучить систему распознавать жест на фото. | numpy, opencv, keras | 
-| [Классификация отзывов](https://github.com/fluke8/gestureclassification) | Natural Language Processing | Попытка создать простую систему классификации отзыва. Цель - создать систему классификации отзывов используя простые алгоритмы. | numpy, pandas, sklearn, matplotlib | 
+| [Классификация отзывов](https://github.com/fluke8/gestureclassification) | Natural Language Processing | Попытка создать простую систему классификации отзыва. Цель - создать систему, которая определяет отзыв положительный или отрицательный. | numpy, pandas, sklearn, matplotlib | 
 
 
 Общий стэк для вышеописанных проектов: numpy, sklearn, PyTorch, pygame, opencv, keras, matplotlib, pandas.  
