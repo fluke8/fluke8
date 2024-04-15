@@ -11,5 +11,6 @@
 Общий стэк для вышеописанных проектов: numpy, sklearn, PyTorch, pygame, opencv, keras, matplotlib, pandas.  
 Этот список содержит самые значимые и крупные проекты (описания проектов доступны внутри каждого).  
 
+
 ### Ссылка на резюме  
 - [Резюме](https://github.com/fluke8/fluke8/blob/main/CV_ML_Engineer_Tretyakov.pdf) 
