@@ -13,4 +13,4 @@
 
 
 ### Ссылка на резюме  
-- [Резюме](https://github.com/fluke8/fluke8/blob/main/CV_ML_Engineer_Tretyakov.pdf) 
+- [Резюме](https://github.com/fluke8/fluke8/blob/main/Data_Scientist_Tretyakov.pdf) 
