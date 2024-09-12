@@ -5,7 +5,7 @@
 | Название проекта | Область | Описание | Стек и методы |
 | --- | --- | --- | --- | 
 | [Симулятор автопилота 2D](https://github.com/fluke8/neuro-race-python) | RL | Создание модели автономной системы управления машиной, оснащенной датчиками приближения к препятствиям.| numpy, sklearn, PyTorch, pygame |  
-| [Классификация жестов](https://github.com/fluke8/gestureclassification) | CV | Разработка простой системы распознавания жестов.  Цель - обучить систему распознавать жест на фото. | numpy, opencv, keras | 
+| [Классификация жестов](https://github.com/fluke8/gestureclassification) | CV | Разработка простой системы распознавания жестов. | numpy, opencv, keras | 
 | [Классификация отзывов](https://github.com/fluke8/reviewclassification) | NLP | Попытка создать простую систему классификации отзыва, которая определяет отзыв положительный или отрицательный. | numpy, pandas, sklearn, matplotlib | 
 | [Распознование текста](https://github.com/fluke8/textrecognition) | CV | Система для распознавания текста на фото. | numpy, pandas, sklearn, opencv, PyTorch | 
 
