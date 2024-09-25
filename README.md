@@ -4,10 +4,11 @@
   
 | Название проекта | Область | Описание | Стек и методы | Дата |
 | --- | --- | --- | --- | --- |
-| [Симулятор автопилота 2D](https://github.com/fluke8/neuro-race-python) | RL | Создание модели автономной системы управления машиной, оснащенной датчиками приближения к препятствиям.| numpy, sklearn, PyTorch, pygame |  04.02.24 |
 | [Распознавание текста](https://github.com/fluke8/textrecognition) | CV | Система для распознавания текста на фото. | numpy, pandas, sklearn, opencv, PyTorch | 11.09.24 |
 | [Классификация жестов](https://github.com/fluke8/gestureclassification) | CV | Разработка простой системы распознавания жестов. | numpy, opencv, keras | 22.01.24 |
 | [Классификация отзывов](https://github.com/fluke8/reviewclassification) | NLP | Cистема классификации отзыва, которая определяет отзыв положительный или отрицательный. | numpy, pandas, sklearn, matplotlib | 19.02.24 |
+| [Симулятор автопилота 2D](https://github.com/fluke8/neuro-race-python) | RL | Создание модели автономной системы управления машиной, оснащенной датчиками приближения к препятствиям.| numpy, sklearn, PyTorch, pygame |  04.02.24 |
+
 
 
 Общий стэк для вышеописанных проектов: numpy, sklearn, PyTorch, pygame, opencv, keras, matplotlib, pandas.  
