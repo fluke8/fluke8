@@ -4,12 +4,12 @@
   
 | Название соревнования | Область | Описание | Ключевые технологии | Метрики | Результат | Дата |
 | --- | --- | --- | --- | --- | --- | --- |
-| ШИФТ | CV | Классификация жеста по фото | opencv, PyTorch | Accuracy = 0.99 | 1 место | 02.02.24 |
-| Международная выставка МСИТ-2024 | Timeseries | Прогнозирование отчисления студентов | numpy, pandas, matplotlib, PyTorch | F1-score = 0.83 | Диплом 90 баллов | 15.03.24 |
-| Alfa x FinU Hack | Timeseries | Предсказание перехода клиента из одного продуктового кластера в другой | pandas, catboost | ROC-AUC = 0.907 | 4 место | 14.02.24 |
-| VK x HSE Data Hack | NLP | Классификация текстов, выделение тегов | selenium, BERT | F1-score = 0.91 | - |  21.04.24 |
-| Гагаринский хакатон | NLP | Sentiment analysis telegram-каналов на рынке акций | spacy, PyTorch | F1-score = 0.6 | 18 место | 13.04.24 |
-| Всероссийский хакатон | CV | Поиск дубликатов видео Yappy | 3D-CSL, CLAP, Optuna | F1-score = 0.96 | - | 27.10.24 |
+| [ШИФТ](https://github.com/fluke8/shift-gesture-classification) | CV | Классификация жеста по фото | opencv, PyTorch | Accuracy = 0.99 | 1 место | 02.02.24 |
+| [Международная выставка МСИТ-2024](https://github.com/fluke8/forecasting-the-expulsion-of-students) | Timeseries | Прогнозирование отчисления студентов | numpy, pandas, matplotlib, PyTorch | F1-score = 0.83 | Диплом 90 баллов | 15.03.24 |
+| [Alfa x FinU Hack](https://github.com/fluke8/alfa-finu-hack-2024) | Timeseries | Предсказание перехода клиента из одного продуктового кластера в другой | pandas, catboost | ROC-AUC = 0.907 | 4 место | 14.02.24 |
+| [VK x HSE Data Hack](https://github.com/fluke8/vk-hse-hack-text-classification) | NLP | Классификация текстов, выделение тегов | selenium, BERT | F1-score = 0.91 | - |  21.04.24 |
+| [Гагаринский хакатон](https://github.com/fluke8/hakaton-gagarin-sentiment_analysis) | NLP | Sentiment analysis telegram-каналов на рынке акций | spacy, PyTorch | F1-score = 0.6 | 18 место | 13.04.24 |
+| [Всероссийский хакатон](https://github.com/Data-Squad-of-Scoofs/duplicate-video-yappy) | CV | Поиск дубликатов видео Yappy | 3D-CSL, CLAP, Optuna | F1-score = 0.96 | - | 27.10.24 |
 
 Командные проекты
 
